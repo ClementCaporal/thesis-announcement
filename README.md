@@ -1,5 +1,7 @@
 # 📢 Clément CAPORAL: Thesis Defense Announcement
 
+[English](#english) | [Français](#francais)
+
 ![image](https://github.com/user-attachments/assets/4a485068-189a-4ae5-9359-63373a40f84b)
 
 [English](#english) | [Français](#francais)
@@ -13,10 +15,11 @@
 
 ## 🎉 Celebration Event
 Join us for a gathering after the defense! If the weather is good, there will be a barbecue and games.
-You can participate by bringing your favourite food and game.
-**Date:** 30/06/2025  (same date) 
+You can participate by bringing your favourite food and game.  
+
+**Date:** 30/06/2025  (same date)  
 **Time:** 18:00 - 00:00  
-**Location:** [Lake of Ecole Polytechnique](https://maps.app.goo.gl/KJbWZdDBrziY5m2Z6)  
+**Location:** [Lake of Ecole Polytechnique](https://maps.app.goo.gl/KJbWZdDBrziY5m2Z6)    
 
 ## 📌 Abstract
 Advancements in imaging technologies have enabled the acquisition of large-volume, multi-channel microscopy datasets.  
@@ -36,7 +39,8 @@ Feel free to contact me if you have any questions.
 ---
 
 ## <a name="francais"></a> 🗓 A vos calendriers !
-**Titre de la thèse :** Analyse quantitative de l'imagerie à grand volume en neurobiologie du développement  
+
+**Titre de la thèse :** Analyse quantitative d'imagerie grand volume en neurobiologie du développement
 **Date :** 30/06/2025  
 **Heure :** 13:00  
 **Lieu :** École Polytechnique (salle à confirmer ici)  
@@ -44,17 +48,18 @@ Feel free to contact me if you have any questions.
 
 ## 🎉 Après l'effort le reconfort
 Rejoignez-nous après la soutenance pour fêter cet événement ! Si le temps le permet, il y a de quoi faire un barbecue et des jeux.  
-Vous pouvez participer en apportant votre nourriture et jeux favoris.
-**Date :** 30/06/2025 (même jour!)
-**Heure :** 18:00 - 00:00  
-**Lieu :** [Lac de l'École Polytechnique](https://maps.app.goo.gl/KJbWZdDBrziY5m2Z6)  
+Vous pouvez participer en apportant votre nourriture et jeux favoris.  
+
+**Date :** 30/06/2025 (même jour!)  
+**Heure :** 18:00 - 00:00    
+**Lieu :** [Lac de l'École Polytechnique](https://maps.app.goo.gl/KJbWZdDBrziY5m2Z6)    
 
 ## 📌 Résumé
 Les avancées des technologies d'imagerie ont permis l'acquisition de grands volumes de données microscopiques multi-canaux.  
 De plus, la technique Brainbow permet le marquage aléatoire des clones individuels avec différentes combinaisons de protéines fluorescentes, offrant un outil pour tracer les lignées cellulaires et les connexions dans le cerveau en développement.  
 Ces données posent de nouveaux défis en analyse d'images biologiques.  
 Cette thèse se concentre sur le développement d'outils d'analyse des signaux Brainbow et sur l'optimisation des pipelines d'analyse d'images à grand volume.  
-Ce travail s'inscrit dans des projets interdisciplinaires en neurobiologie du développement, appliqués notamment au développement de l'hippocampe chez la souris et au câblage du noyau médial du corps trapézoïde (MNTB).  
+Ce travail s'inscrit dans des projets interdisciplinaires en neurobiologie du développement, appliqué notamment au développement de l'hippocampe chez la souris et au câblage du noyau médial du corps trapézoïde (MNTB).  
 Les contributions de ces travaux ont été guidées par un engagement à contribuer à la communauté open-source Python.  
 
 ## 🚌 Comment venir?
