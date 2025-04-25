@@ -10,7 +10,7 @@
 **Thesis Title:** Quantitative analysis of large volume imaging in developmental neurobiology  
 **Date:** 30/06/2025  
 **Time:** 13:00  
-**Location:** Ecole Polytechnique (room to be updated here)  
+**Location:** Ecole Polytechnique, Bâtiment d'Enseignement Mutualisé | BEM, Amphi 1 ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))   
 **Format:** In-person / Online (link to be updated here)  
 
 ## 🎉 Celebration Event
@@ -43,7 +43,7 @@ Feel free to contact me if you have any questions.
 **Titre de la thèse :** Analyse quantitative d'imagerie grand volume en neurobiologie du développement
 **Date :** 30/06/2025  
 **Heure :** 13:00  
-**Lieu :** École Polytechnique (salle à confirmer ici)  
+**Lieu :** Ecole Polytechnique, Bâtiment d'Enseignement Mutualisé | BEM, Amphi 1 ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))    
 **Format :** En présentiel / En ligne (lien à venir ici)  
 
 ## 🎉 Après l'effort le reconfort
