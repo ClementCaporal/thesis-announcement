@@ -9,16 +9,16 @@
 ## <a name="english"></a> 🗓 Save the Date!
 **Thesis Title:** Quantitative analysis of large volume imaging in developmental neurobiology  
 **Date:** 30/06/2025  
-**Time:** 13:00  
+**Time:** 14:00  
 **Location:** Ecole Polytechnique, Bâtiment d'Enseignement Mutualisé | BEM, Amphi 1 ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))   
-**Format:** In-person / Online (link to be updated here)  
+**Format:** In-person / Online ([zoom link](https://ecolepolytechnique.zoom.us/j/92755703948?pwd=srvlwVWuxYrbmRKP89UaxYQ4rtqdan.1))
 
 ## 🎉 Celebration Event
 Join us for a gathering after the defense! If the weather is good, there will be a barbecue and games.
 You can participate by bringing your favourite food and game.  
 
 **Date:** 30/06/2025  (same date)  
-**Time:** 18:00 - 00:00  
+**Time:** ~18:30 - 00:00  
 **Location:** [Lake of Ecole Polytechnique](https://maps.app.goo.gl/KJbWZdDBrziY5m2Z6)    
 
 ## 📌 Abstract
@@ -42,16 +42,16 @@ Feel free to contact me if you have any questions.
 
 **Titre de la thèse :** Analyse quantitative d'imagerie grand volume en neurobiologie du développement
 **Date :** 30/06/2025  
-**Heure :** 13:00  
+**Heure :** 14:00  
 **Lieu :** Ecole Polytechnique, Bâtiment d'Enseignement Mutualisé | BEM, Amphi 1 ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))    
-**Format :** En présentiel / En ligne (lien à venir ici)  
+**Format :** En présentiel / En ligne ([lien zoom](https://ecolepolytechnique.zoom.us/j/92755703948?pwd=srvlwVWuxYrbmRKP89UaxYQ4rtqdan.1))  
 
 ## 🎉 Après l'effort le reconfort
 Rejoignez-nous après la soutenance pour fêter cet événement ! Si le temps le permet, il y a de quoi faire un barbecue et des jeux.  
 Vous pouvez participer en apportant votre nourriture et jeux favoris.  
 
 **Date :** 30/06/2025 (même jour!)  
-**Heure :** 18:00 - 00:00    
+**Heure :** ~18:30 - 00:00    
 **Lieu :** [Lac de l'École Polytechnique](https://maps.app.goo.gl/KJbWZdDBrziY5m2Z6)    
 
 ## 📌 Résumé
