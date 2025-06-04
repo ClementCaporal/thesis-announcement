@@ -84,7 +84,7 @@ Join us after the defense to celebrate this event! Weather permitting, there wil
 I'm planning to bring charcoal, vegetables, syrups, and bread. I can't plan enough for everyone, so feel free to contribute your favorite food and games.
 
 **Date:** June 30, 2025 (same day!)  
-**Time:** ~7:00 p.m. - 12:00 a.m.
+**Time:** ~7:00 p.m. - 12:00 a.m.  
 **Location:** [École Polytechnique Lake](https://maps.app.goo.gl/KJbWZdDBrziY5m2Z6)
 
 
