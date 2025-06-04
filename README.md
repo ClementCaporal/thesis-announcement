@@ -61,8 +61,8 @@ Les contributions de ces travaux ont été guidées par un engagement à contrib
 ## <a name="english"></a> 🗓 Save the Date!
 
 **Thesis title:** Quantitative analysis of large-volume imaging in developmental neurobiology
-**Date:** June 30, 2025
-**Time:** 2:00 p.m.
+**Date:** June 30, 2025  
+**Time:** 2:00 p.m.  
   
 **Location:** Ecole Polytechnique, Shared Teaching Building | BEM, Lecture Hall 1 ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))
     
