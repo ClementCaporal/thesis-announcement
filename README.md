@@ -8,10 +8,10 @@
 
 ## <a name="francais"></a> 🗓 A vos calendriers !
 
-**Titre de la thèse :** Analyse quantitative d'imagerie grand volume en neurobiologie du développement
+**Titre de la thèse :** Analyse quantitative d'imagerie grand volume en neurobiologie du développement  
 **Date :** 30/06/2025  
 **Heure :** 14:00  
-**Lieu :** Ecole Polytechnique, Bâtiment d'Enseignement Mutualisé | BEM, Amphi 1 ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))    
+**Lieu :** Ecole Polytechnique, Bâtiment d'Enseignement Mutualisé | BEM, Amphi 1 (Grand Amphi Claudine Hermann) ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))    
 **Format :** En présentiel / En ligne ([lien zoom](https://ecolepolytechnique.zoom.us/j/92755703948?pwd=srvlwVWuxYrbmRKP89UaxYQ4rtqdan.1))  
 **Lien zoom** Si vous ne pouvez pas venir mais souhaitez suivre en distanciel c'est possible en suivant ce [lien zoom](https://ecolepolytechnique.zoom.us/j/92755703948?pwd=srvlwVWuxYrbmRKP89UaxYQ4rtqdan.1)  
 
@@ -64,7 +64,7 @@ Les contributions de ces travaux ont été guidées par un engagement à contrib
 **Date:** June 30, 2025  
 **Time:** 2:00 p.m.  
   
-**Location:** Ecole Polytechnique, Shared Teaching Building | BEM, Lecture Hall 1 ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))
+**Location:** Ecole Polytechnique, Shared Teaching Building | BEM, Lecture Hall 1 (Grand Amphi Claudine Hermann) ([google map](https://www.google.com/maps/place/Building+Teaching+Mutualis%C3%A9/@48.7118606,2.2069817,17.58z/data=!4m6!3m5!1s0x47e678919b45773d:0xeba4802aa6aed3be!8m2!3d48.7123913!4d2.2073936!16s%2Fg%2F11b6wqdsh3?hl=en-FR&entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D) / [openstreetmap](https://www.openstreetmap.org/way/952696844))
     
 **Format:** In person / Online ([zoom link](https://ecolepolytechnique.zoom.us/j/92755703948?pwd=srvlwVWuxYrbmRKP89UaxYQ4rtqdan.1))
   
